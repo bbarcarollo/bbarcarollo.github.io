@@ -1,0 +1,26 @@
+*{
+   margin: 0;
+   padding: 0
+   ; 
+}
+
+.header-container{
+background-color: #59c9a5ff;
+padding: 9px 11px;
+color: #5b6c5dff;
+text-decoration: none;
+}
+
+body {
+font-family: 'Alumni Sans Pinstripe', sans-serif;
+}
+
+h1 {
+    font-family: 'Cantarell', sans-serif;
+    color: #ef6f6cff;  
+}
+
+div {
+    border: 2px solid rebeccapurple; 
+
+}
