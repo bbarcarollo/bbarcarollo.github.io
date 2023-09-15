@@ -4,30 +4,53 @@ padding: 9px 11px;
 list-style: none;
 }
 
+.imagem {
+ border:#465775;
+ border-radius: 50%;
+ position: absolute;
+ left: 50px;
+ top: 200px;
+ z-index: 1;
+
+}
+
+h1 {
+    text-align: center;
+
+}
+
 .header-container a {
     text-decoration: none;
-    color: #5b6c5dff;
+    color: #3d405bff;
     font-weight: bold;
 }
 
 body {
 font-family: 'Alumni Sans Pinstripe', sans-serif;
+background-color: #f4f1deff;
+
 }
 
 h1 {
     font-family: 'Cantarell', sans-serif;
-    color: #ef6f6cff;  
+    color: #e07a5fff;  
 }
 
 .about {
-    background-color: #ef6f6cff;
-    opacity: 50%;
+    opacity: 80%;
     padding: 15px 30px;
     border-radius: 80px;
+    background-color: #e07a5fff;
     text-align: center;
+    color:#3d405bff;
     font-weight: bold;
 }
-
-ul {
+.about p ul {
+    
+}
+.about h3 {
+    right: 20%;
+}
+.about ul {
     list-style: none;
 }
