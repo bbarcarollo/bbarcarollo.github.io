@@ -1,3 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
 .header-container{
 background-color: #59c9a5ff;
 padding: 9px 11px;
@@ -9,7 +14,7 @@ list-style: none;
  border-radius: 50%;
  position: absolute;
  left: 50px;
- top: 200px;
+ top: 120px;
  z-index: 1;
 
 }
@@ -53,4 +58,13 @@ h1 {
 }
 .about ul {
     list-style: none;
+}
+.about li{
+    left: 50%;
+}
+
+footer{
+    display: inline-block;
+    background-color: #81b29aff;
+    text-decoration: none;
 }
